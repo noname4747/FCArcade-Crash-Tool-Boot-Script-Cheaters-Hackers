@@ -22,4 +22,7 @@ How to use
 
     Video how to crash pvp players https://www.youtube.com/watch?v=IZdVndYI35I
 
+
+    TO DOWNLOAD HIT THE "View raw"
+
     
