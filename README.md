@@ -5,6 +5,8 @@ Orbital and Helicopter camera crash other players in PVP!
 Allows you also to freeze or boot the players in place
 Ideal for fighting with cheaters and hackers in far cry 5 arcade pvp multiplayer
 
+Far Cry 5 Script Loader by Norway-1999
+
 How to use
 
     Download any injector tool
