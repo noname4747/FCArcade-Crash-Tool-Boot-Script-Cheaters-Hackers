@@ -1,6 +1,9 @@
 This mod allows you to load LUA scripts in Far cry 5. You can also change the character's camera. This mod is a god tool that allows you to do almost anything in the game!
 
-Orbital and Helicopter camera crash other players in PVP!
+Orbital and Helicopter camera crash other players in PVP! 
+
+Allows you also to freeze or boot the players in place
+Ideal for fighting with cheaters and hackers in far cry 5 arcade pvp multiplayer
 
 How to use
 
@@ -19,4 +22,4 @@ How to use
 
     Video how to crash pvp players https://www.youtube.com/watch?v=IZdVndYI35I
 
-    Crash guy
+    
